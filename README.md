@@ -35,4 +35,36 @@ To understand climate-relevant datasets and use data science techniques to uncov
 AICTE Skill4Future (Week 1)
 
 ---
+# 🌱 Week 2: Greenhouse Gas Emission Prediction – AI/ML Internship
+
+This notebook includes:
+
+- ✅ Data Preprocessing (EDA, Cleaning, Encoding)
+- ✅ Training 3 regression models:
+  - Linear Regression
+  - Decision Tree Regressor
+  - Random Forest Regressor
+- ✅ Evaluation with:
+  - RMSE (Root Mean Squared Error)
+  - MAE (Mean Absolute Error)
+  - R² Score
+- ✅ Hyperparameter tuning using GridSearchCV (on Random Forest)
+- ✅ Visualizations:
+  - Model performance comparison
+  - Residual analysis
+  - Feature importance
+- ✅ Saved the best model and scaler using `joblib`
+- ✅ Submitted the notebook on GitHub and LMS
+
+---
+
+## ✅ Week 2 Task Completion Checklist
+
+- [x] Built 3 regression models  
+- [x] Evaluated with RMSE, MAE, R²  
+- [x] Tuned Random Forest using GridSearchCV  
+- [x] Visualized performance, residuals, and feature importance  
+- [x] Saved the best model and scaler  
+- [x] Submitted notebook to GitHub and LMS  
+
 
