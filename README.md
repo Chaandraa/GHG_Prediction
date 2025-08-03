@@ -2,6 +2,8 @@
 
 This project is part of the **AICTE Skill4Future Internship**. It focuses on analyzing and visualizing greenhouse gas (GHG) emissions using real-world supply chain data for U.S. industries and commodities.
 
+<small>Using the supply-chain greenhouse gas emission dataset (sector-level GHG emissions in CO₂-equivalent), build a predictive model for future emissions by sector or organization. For example, forecast next-year emissions for each industry sector based on historical trends and economic factors.</small>
+
 ## 📁 Files Included
 
 - `GHG_.ipynb`: Jupyter Notebook with data analysis and visualizations.
