@@ -19,7 +19,7 @@ This project is part of the **AICTE Skill4Future Internship**. It focuses on ana
 ## 🛠 Technologies Used
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Google Colab 
+- Google Colab / Jupiter notebook
 
 ## 📊 Project Features
 
@@ -27,12 +27,6 @@ This project is part of the **AICTE Skill4Future Internship**. It focuses on ana
 - Clean and preprocess data
 - Visualize key insights on GHG emissions
 - Identify industries with high carbon footprints
-
-## 📦 Requirements
-Install dependencies with:
--bash
-pip install -r requirements.txt
-
 
 ## 🚀 How to Run
 
