@@ -1,11 +1,20 @@
 # 🌱 GHG Emissions Visualization Project
 
-This project is part of the **AICTE Skill4Future Internship (Week 1)**. It focuses on analyzing and visualizing greenhouse gas (GHG) emissions using real-world supply chain data for U.S. industries and commodities.
+This project is part of the **AICTE Skill4Future Internship**. It focuses on analyzing and visualizing greenhouse gas (GHG) emissions using real-world supply chain data for U.S. industries and commodities.
 
 ## 📁 Files Included
 
 - `GHG_.ipynb`: Jupyter Notebook with data analysis and visualizations.
-- `SupplyChainEmissionFactorsforUSIndustriesCommodities.xlsx`: Dataset provided by the internship.
+- `SupplyChainEmissionFactorsforUSIndustriesCommodities.xlsx`: Dataset provided by the internship(may not be publicaly available)
+
+**Dataset Details:**
+-**Dataset Source:** Provided by AICTE Skill4Future Internship ((may not be publicaly available).
+- **Features:** Unit, Substance, Industry name, Commodity, Emission Factor, Energy Consumption.
+- **Target Variable:** Emission Factor (CO₂ equivalent)
+- **Type:** Mixed numeric and categorical
+
+## 🛠 Workflow
+![Workflow Diagram](workflow.png)
 
 ## 🛠 Technologies Used
 
@@ -19,9 +28,11 @@ This project is part of the **AICTE Skill4Future Internship (Week 1)**. It focus
 - Visualize key insights on GHG emissions
 - Identify industries with high carbon footprints
 
-## 💡 Objective
+## 📦 Requirements
+Install dependencies with:
+-bash
+pip install -r requirements.txt
 
-To understand climate-relevant datasets and use data science techniques to uncover actionable insights.
 
 ## 🚀 How to Run
 
