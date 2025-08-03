@@ -14,7 +14,7 @@ This project is part of the **AICTE Skill4Future Internship**. It focuses on ana
 - **Type:** Mixed numeric and categorical
 
 ## 🛠 Workflow
-![Workflow Diagram](workflow.png)
+![Workflow Diagram](https://github.com/Chaandraa/GHG_Prediction/blob/9fcb4a92dff20052cf25315a36b4b5429701a25a/Data%20collection.png)
 
 ## 🛠 Technologies Used
 
